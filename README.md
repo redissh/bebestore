@@ -8,13 +8,11 @@
 
 <br/>
 
-## TL;DR
+## PASSWORD
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Redissh](https://github.com/redissh). Thanks!
+The page is password-protected as i currently don't own a domain for it. PASSWORD: BEBESTORE
 
 ## Built With
-
-<mark>PASSWORD:</mark> BEBESTORE
 
 This project was built using these technologies.
 
