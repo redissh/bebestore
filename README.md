@@ -20,6 +20,7 @@ This project was built using these technologies.
 - HTML
 - CSS
 - JavaScript
+- LiquidJS
 - Visual Studio Code
 - Shopify
 - and more..
